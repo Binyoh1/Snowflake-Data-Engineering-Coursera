@@ -1,5 +1,6 @@
 jupyterlab
 pandas
+python-decouple
 snowflake-cli-labs
 snowflake-snowpark-python
 streamlit
