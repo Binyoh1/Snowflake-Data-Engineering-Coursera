@@ -1,0 +1,5 @@
+jupyterlab
+pandas
+snowflake-cli-labs
+snowflake-snowpark-python
+streamlit
